@@ -5,6 +5,8 @@
 ## softmaskbert
 
 > 模型下载后放到gec_ch/models/softmaskbert文件夹下
+> 链接: https://pan.baidu.com/s/1ISK9f5cYzXTJigS-5sMdAg 提取码: uzcc  
+
 
 ### 调用方式
 
